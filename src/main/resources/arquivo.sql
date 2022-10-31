@@ -1,0 +1,1 @@
+INSERT INTO informacoes(id, titulo, mensagem) VALUES(1, 'PEV', 'testrew');
